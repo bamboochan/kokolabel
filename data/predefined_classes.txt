@@ -1,0 +1,7 @@
+police
+others
+dog
+person
+cat
+tv
+car
