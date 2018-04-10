@@ -1,3 +1,9 @@
+
+implemented a new function to import all the bounding boxes from the previous image to the new image
+particularly helpful when labling a sequence of images from a video.
+
+below is the readme file of the original user
+
 LabelImg
 ========
 
